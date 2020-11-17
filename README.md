@@ -5,7 +5,7 @@ The source code included here contains algorithms that are introduced in the pub
 by Jan Philipp Menzel, Benjamin B. Noble, James P. Blinco and Christopher Barner-Kowollik. 
 
 Author: The code was created by Jan Philipp Menzel.
-Contact by e-mail: j.p.menzel@gmail.com
+Contact by e-mail: j.p.menzel (at) gmail.com
 
 Description for jpmenzelqled:
 
