@@ -1,5 +1,6 @@
 # jpmphotochem
 Predictive simulation of photochemical experiments
+
 The source code included here contains algorithms that are introduced in the publication "Predicting Wavelength-Dependent Photochemical Reactivity and Selectivity" 
 by Jan Philipp Menzel, Benjamin B. Noble, James P. Blinco and Christopher Barner-Kowollik. 
 
