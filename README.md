@@ -2,7 +2,11 @@
 Predictive simulation of photochemical experiments
 
 The source code included here contains algorithms that are introduced in the publication "Predicting Wavelength-Dependent Photochemical Reactivity and Selectivity" 
-by Jan Philipp Menzel, Benjamin B. Noble, James P. Blinco and Christopher Barner-Kowollik. 
+by Jan Philipp Menzel, Benjamin B. Noble, James P. Blinco and Christopher Barner-Kowollik: 
+
+https://www.nature.com/articles/s41467-021-21797-x
+
+Menzel, J.P., Noble, B.B., Blinco, J.P. et al. Predicting wavelength-dependent photochemical reactivity and selectivity. Nat Commun 12, 1691 (2021). https://doi.org/10.1038/s41467-021-21797-x
 
 Author: The code was created by Jan Philipp Menzel.
 Contact by e-mail: j.p.menzel (at) gmail.com
