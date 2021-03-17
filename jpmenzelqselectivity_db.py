@@ -1,7 +1,9 @@
 # -*- coding: UTF-8 -*-
 
 # The source code below is an algorithm that is introduced in the publication "Predicting Wavelength-Dependent Photochemical Reactivity and Selectivity" 
-# by Jan Philipp Menzel, Benjamin B. Noble, James P. Blinco and Christopher Barner-Kowollik. 
+# by Jan Philipp Menzel, Benjamin B. Noble, James P. Blinco and Christopher Barner-Kowollik:
+# Menzel, J.P., Noble, B.B., Blinco, J.P. et al. Predicting wavelength-dependent photochemical reactivity and selectivity. 
+# Nat Commun 12, 1691 (2021). https://doi.org/10.1038/s41467-021-21797-x 
 # The code was created by Jan Philipp Menzel.
 # Purpose of the algorithm: Quantitative prediction of the wavelength-dependent selectivity of two competing photoreactions using monochromatic light.
 # Notes: The algorithm requests manual input, imports uv/vis data from a respective excel file, makes lists for spatial distribution of reactands and products, 
