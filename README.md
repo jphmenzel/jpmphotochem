@@ -9,7 +9,6 @@ https://www.nature.com/articles/s41467-021-21797-x
 Menzel, J.P., Noble, B.B., Blinco, J.P. et al. Predicting wavelength-dependent photochemical reactivity and selectivity. Nat Commun 12, 1691 (2021). https://doi.org/10.1038/s41467-021-21797-x
 
 Author: The code was created by Jan Philipp Menzel.
-Contact by e-mail: j.p.menzel (at) gmail.com
 
 Content of this README file: Brief description of each algorithm (12 - 32), System requirements (34 - 36), Installation guide (38 - 40), Demo (42 - 45), Instructions for use (47 - 49)
 
